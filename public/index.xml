@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Mårstad</title>
+    <link>https://annamarstad.se/</link>
+    <description>Recent content on Anna Mårstad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://annamarstad.se/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://annamarstad.se/about/</link>
+      <pubDate>Sat, 27 Aug 2022 21:10:55 +0200</pubDate>
+      
+      <guid>https://annamarstad.se/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

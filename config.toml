@@ -1,5 +1,17 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://annamarstad.se/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Anna Mårstad'
 themesDir = "themes"
 theme = "hugo-hero-theme"
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 2
+
+
