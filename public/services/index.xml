@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mina tjänster on Anna Mårstad – samtal och handledning</title>
+    <link>https://annamarstad.se/services/</link>
+    <description>Recent content in Mina tjänster on Anna Mårstad – samtal och handledning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://annamarstad.se/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Konsultation och samtal</title>
+      <link>https://annamarstad.se/services/samtal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://annamarstad.se/services/samtal/</guid>
+      <description>Att få prata med någon utomstående är ofta till hjälp för att få perspektiv och komma vidare med både små och stora bekymmer i vardagen. Att söka professionellt samtalsstöd kan vara till hjälp när du behöver förstå dina egna tankar, känslor, upplevelser och erfarenheter lite bättre.
+Ibland är det tillräckligt med några enstaka samtal för att komma vidare. Att stanna upp och sätta ord på tankar och känslor kan ge dig nya perspektiv och göra att du kommer ur låsningar.</description>
+    </item>
+    
+    <item>
+      <title>Handledning</title>
+      <link>https://annamarstad.se/services/handledning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://annamarstad.se/services/handledning/</guid>
+      <description>Jag åtar mig handledningsuppdrag för personalgrupper inom psykosocialt arbete.</description>
+    </item>
+    
+    <item>
+      <title>Visualiserande terapi-symboldrama</title>
+      <link>https://annamarstad.se/services/visualiserande-psykoterapi-symboldrama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://annamarstad.se/services/visualiserande-psykoterapi-symboldrama/</guid>
+      <description>Ibland är det inte så lätt att med ord uttrycka det vi känner och upplever och det kan vara svårt att komma i kontakt med underliggande känslor och behov. Upplevelser från långt tillbaka i tiden kan göra sig påminda i våra liv genom svårförståeliga känslomässiga reaktioner som ångest, depression, negativa självbilder, psykosomatiska besvär eller problem med relationer. I symboldrama använder jag mig av visualisering av inre bilder i kombination med samtal.</description>
+    </item>
+    
+  </channel>
+</rss>

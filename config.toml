@@ -1,17 +1,22 @@
 baseURL = 'https://annamarstad.se/'
 languageCode = 'en-us'
-title = 'Anna Mårstad'
+title = 'Anna Mårstad – samtal och handledning'
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
 [[menu.main]]
-  name = "About"
-  url = "/about/"
+  name = "Hem"
+  url = "/"
   weight = 1
 
 [[menu.main]]
-  name = "Contact"
-  url = "/contact/"
+  name = "Tjänster"
+  url = "/services/"
   weight = 2
+
+[[menu.main]]
+  name = "Kontakt"
+  url = "/contact/"
+  weight = 3
 
 

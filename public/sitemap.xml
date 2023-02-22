@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://annamarstad.se/about/</loc>
-    <lastmod>2022-08-27T21:10:55+02:00</lastmod>
+    <loc>https://annamarstad.se/services/samtal/</loc>
+  </url><url>
+    <loc>https://annamarstad.se/services/handledning/</loc>
   </url><url>
     <loc>https://annamarstad.se/</loc>
   </url><url>
     <loc>https://annamarstad.se/categories/</loc>
   </url><url>
+    <loc>https://annamarstad.se/contact/</loc>
+  </url><url>
+    <loc>https://annamarstad.se/services/</loc>
+  </url><url>
+    <loc>https://annamarstad.se/404/</loc>
+  </url><url>
     <loc>https://annamarstad.se/tags/</loc>
+  </url><url>
+    <loc>https://annamarstad.se/services/visualiserande-psykoterapi-symboldrama/</loc>
   </url>
 </urlset>
