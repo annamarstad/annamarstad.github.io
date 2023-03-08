@@ -4,7 +4,7 @@ title: Visualiserande terapi-symboldrama
 featured: true
 draft: false
 heroHeading: Visualiserande psykoterapi-symboldrama  
-heroBackground: custom/virender-singh-hE0nmTffKtM-unsplash.jpg
+heroBackground: custom/jeremy-gallman-qe3zhCb3fFs-unsplash.jpg
 ---
 
 Ibland är det inte så lätt att med ord uttrycka det vi känner och upplever och det kan vara svårt att  komma i kontakt med underliggande känslor och behov. Upplevelser från långt tillbaka i tiden kan göra sig påminda i våra liv genom svårförståeliga känslomässiga reaktioner som ångest, depression, negativa självbilder, psykosomatiska besvär eller problem med relationer. I symboldrama använder jag mig av visualisering av inre bilder i kombination med samtal. 
