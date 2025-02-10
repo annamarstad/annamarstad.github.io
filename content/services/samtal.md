@@ -7,6 +7,7 @@ weight: 1
 heroHeading: Konsultation och samtal
 heroBackground: custom/evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpg
 ---
+I nuläget har jag pausat min samtalsmottagning och tar enbart emot handledningsuppdrag.
 
 Att få prata med någon utomstående är ofta till hjälp för att få perspektiv och komma vidare med både små och stora bekymmer i vardagen. Att söka professionellt samtalsstöd kan vara till hjälp när du behöver förstå dina egna tankar, känslor, upplevelser och erfarenheter lite bättre. 
 
